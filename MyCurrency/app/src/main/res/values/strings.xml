@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Currency</string>
+    <string name="text_view_from">From</string>
+    <string name="text_view_to">To</string>
+    <string name="text_view_amount">Amount</string>
+    <string name="text_view_result">Result</string>
+    <string name="btn_convert">Convert</string>
+</resources>
