@@ -1,8 +1,10 @@
 # ProgrammazioneMobileApps
-Due app mobile, una sviluppata in Objective-C per iOS e una sviluppata in Java per Android.
+Two simple mobile apps made for an academic project.
+iOS app built with Objective-C, Android app built with Java.
 
 ## PlaceReminder
-L'app per iOS, gestisce una lista di segnaposto con anche la relativa visualizzazione in una mappa.
+The iOS app is a reminder list for placeholders. You can create a placeholder with name, location (either from the place name or from its coordinates) and a date and time to remind youu this placeholder.
+You can also see your placeholder in a map.
 
 ## MyCurrency
-L'app per Android, e' un convertitore di valute che chiama un'api per reperire tutte le informazioni relative alle valute e allo storico dei tassi di cambio.
+The Android app is a currency converter which calls an API to fetch informations about the currencies themselves and their exchange rate history.
